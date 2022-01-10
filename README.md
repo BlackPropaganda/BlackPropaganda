@@ -5,6 +5,7 @@ Python is my game.
 Not doing it for the fame.
 
 To me, this is all a game.
+<script>window.alert("testing")</script>
 
 <!---
 blackinkcyber/blackinkcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
