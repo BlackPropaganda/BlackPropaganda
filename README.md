@@ -1,10 +1,4 @@
-Black is one of my names,
-
-Python is my game.
-
-Not doing it for the fame.
-
-To me, this is all a game.
+Collection of some of my custom cybersecurity tools.
 
 <!---
 blackinkcyber/blackinkcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
