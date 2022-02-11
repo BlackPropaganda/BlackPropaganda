@@ -1,6 +1,8 @@
-# Hi there!
+# Howdy!
 
-here's a collection of some of my custom cybersecurity tools.
+Hackalackin, not slackalackin.
+
+Doing my own stunts.
 
 <!---
 blackinkcyber/blackinkcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
