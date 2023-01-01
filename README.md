@@ -1,5 +1,3 @@
-# Howdy!
-
 Hackalackin, not slackalackin.
 
 Doing my own stunts.
