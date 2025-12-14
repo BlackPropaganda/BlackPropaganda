@@ -2,7 +2,7 @@
 ![BlackPropaganda's GitHub stats](https://github-readme-stats-v5z5.vercel.app/api?username=blackpropaganda&theme=midnight-purple&count_private=true)
 --->
 
-Hackalackin, not slackalackin.
+The most experienced engineer without experience you know.
 
 <!---
 blackinkcyber/blackinkcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
