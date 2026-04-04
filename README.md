@@ -1,7 +1,16 @@
 <!--- Can't stowaway off this anymore Lol
 ![BlackPropaganda's GitHub stats](https://github-readme-stats-v5z5.vercel.app/api?username=blackpropaganda&theme=midnight-purple&count_private=true)
 --->
-# The least experienced engineer you know.
+# Current Mischief
+
+`ezpanos` is my (attempt)[https://pypi.org/project/ezpanos/] at making PanOS automation less clumsy:
+- lightweight
+- scriptable
+- practical
+- built for people who actually have to touch more firewalls than grass
+
+Part experiment, part utility, part refusal to keep doing things the painful way.
+
 
 <!---
 blackinkcyber/blackinkcyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
