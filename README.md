@@ -7,7 +7,7 @@
 - lightweight
 - scriptable
 - practical
-- built for people who actually have to touch more firewalls than grass
+- built for people who touch more firewalls than grass
 
 Part experiment, part utility, part refusal to keep doing things the painful way.
 
