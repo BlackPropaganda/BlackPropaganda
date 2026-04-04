@@ -3,7 +3,7 @@
 --->
 # Current Mischief
 
-`ezpanos` is my (attempt)[https://pypi.org/project/ezpanos/] at making PanOS automation less clumsy:
+`ezpanos` is my [attempt](https://pypi.org/project/ezpanos) at making PanOS automation less clumsy:
 - lightweight
 - scriptable
 - practical
